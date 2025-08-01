@@ -1,0 +1,17 @@
+# Ignore all output and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+input/
+output/
+.temp_images/
+models/
+*.log
+
+# VS Code or IDE stuff
+.vscode/
+.idea/
+.DS_Store
